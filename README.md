@@ -1,3 +1,1 @@
-# grid-page
-
-learning css grid
+Make simple website with Css Grid
